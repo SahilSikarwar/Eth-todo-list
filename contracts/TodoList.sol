@@ -1,5 +1,5 @@
 pragma solidity ^0.6.0;
-
+//solidity version might change so code will change accordingly
 contract TodoList {
     uint256 public taskCount = 0;
     // Making a struct as class or something related to make
